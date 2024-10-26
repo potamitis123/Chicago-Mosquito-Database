@@ -1,4 +1,4 @@
-Code for the paper 'Unveiling Mosquito Patterns in Chicago (2007-2024): A Data Analytics and Machine Learning Study, by Dr. Ilyas Potamitis
+Code for the paper 'Unveiling Mosquito Patterns in Chicago (2007-2024): A Data Analytics and Machine Learning Study, by Dr. Ilyas Potamitis in arXiv 
 
 original_cardal: the submissions for the winning solution of https://www.kaggle.com/c/predict-west-nile-virus . Assesment of each processing stage. The original code can be found here: https://github.com/Cardal/Kaggle_WestNileVirus
 
