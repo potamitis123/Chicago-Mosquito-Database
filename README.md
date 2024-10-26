@@ -8,11 +8,12 @@ Chicago_WNV_figures.py: Reproduces all figures in the paper
 
 parse_Chicago_WNV.py: The refactored Cardal approach refactored for Python 3.7 and leederboard fitting practices removed
 
-Our contribution
-bivariate.py: Fit a bivariate Normal on log(NumMosquitos+1) and WnvPresent Dates and derive the probability of an infected batch
+Our contribution:
 
-bivariate_with_trap_bias.py: Fit a bivariate Normal and also apply a statistical significance test on traps that leads to a weight applied to the prediction prob.
+1. bivariate.py: Fit a bivariate Normal on log(NumMosquitos+1) and WnvPresent Dates and derive the probability of an infected batch
 
-Tree_based_Chicago_WNV.py: Apply tree-based algorithms on the dataset
+2. bivariate_with_trap_bias.py: Fit a bivariate Normal and also apply a statistical significance test on traps that leads to a weight applied to the prediction prob.
+
+3. Tree_based_Chicago_WNV.py: Apply tree-based algorithms on the dataset
 
 
