@@ -1,6 +1,6 @@
 Code for the paper 'Unveiling Mosquito Patterns in Chicago (2007-2024): A Data Analytics and Machine Learning Study, by Dr. Ilyas Potamitis
 
-original_cardal: the submissions for the winning solution of https://www.kaggle.com/c/predict-west-nile-virus
+original_cardal: the submissions for the winning solution of https://www.kaggle.com/c/predict-west-nile-virus . Assesment of each processing stage
 
 Chicago_WNV: The Chicago Mosquito database (2007-2024). Taken from https://data.cityofchicago.org/Health-Human-Services/West-Nile-Virus-WNV-Mosquito-Test-Results/jqe8-8r6s/about_data
 
